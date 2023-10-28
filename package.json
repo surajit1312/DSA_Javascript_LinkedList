@@ -4,7 +4,8 @@
   "description": "This is a repository to practice DSA LinkedList topic in Javascript language",
   "main": "index.js",
   "scripts": {
-    "p1_implementation_singly_linkedlist": "nodemon implementation/p1_implementation_singly_linkedlist.js"
+    "p1_implementation_singly_linkedlist": "nodemon implementation/p1_implementation_singly_linkedlist.js",
+    "p2_implementation_doubly_linkedlist": "nodemon implementation/p2_implementation_doubly_linkedlist.js"
   },
   "keywords": [],
   "author": "",
