@@ -1,0 +1,16 @@
+{
+  "name": "dsa_javascript_linkedlist",
+  "version": "1.0.0",
+  "description": "This is a repository to practice DSA LinkedList topic in Javascript language",
+  "main": "index.js",
+  "scripts": {
+    "p1_implementation_singly_linkedlist": "nodemon implementation/p1_implementation_singly_linkedlist.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "nodemon": "^3.0.1",
+    "treeify": "^1.1.0"
+  }
+}
