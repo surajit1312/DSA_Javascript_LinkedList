@@ -8,7 +8,8 @@
     "p2_implementation_doubly_linkedlist": "nodemon implementation/p2_implementation_doubly_linkedlist.js",
     "p1_middle_of_linkedlist": "nodemon easy/p1_middle_of_linkedlist.js",
     "p2_reverse_linkedlist_iterative": "nodemon easy/p2_reverse_linkedlist_iterative.js",
-    "p3_merge_two_sorted_linkedlist": "nodemon easy/p3_merge_two_sorted_linkedlist.js"
+    "p3_merge_two_sorted_linkedlist": "nodemon easy/p3_merge_two_sorted_linkedlist.js",
+    "p4_detect_cycle_linkedlist": "nodemon easy/p4_detect_cycle_linkedlist.js"
   },
   "keywords": [],
   "author": "",
