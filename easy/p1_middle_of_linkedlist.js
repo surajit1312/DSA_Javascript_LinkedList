@@ -1,5 +1,5 @@
 console.log(
-  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode 876. Middle of the Linked List ~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode 876. Middle of the Linked List ~~~~~~~~~~~~~~~~~~~~~~~~~~~",
 );
 
 const treeify = require("treeify");
@@ -58,7 +58,7 @@ var middleNode = function (head) {
 // Creating a Singly LinkedList from an array
 const input = [1, 2, 3, 4, -5, 6, -7, 8, 9, -10];
 console.log(
-  "Singly LinkedList from array [" + input + "] looks like below: \n"
+  "Singly LinkedList from array [" + input + "] looks like below: \n",
 );
 const listFromArray = new SinglyLinkedList();
 input.forEach((val) => {

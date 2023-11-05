@@ -1,5 +1,5 @@
 console.log(
-  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode 206. Reverse Linked List ~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode 206. Reverse Linked List ~~~~~~~~~~~~~~~~~~~~~~~~~~~",
 );
 
 const treeify = require("treeify");
@@ -71,7 +71,7 @@ var reverseList = function (head) {
 // Creating a Singly LinkedList from an array
 const input = [1, 2, 3, 4, 5];
 console.log(
-  "Singly LinkedList from array [" + input + "] looks like below: \n"
+  "Singly LinkedList from array [" + input + "] looks like below: \n",
 );
 const listFromArray = new SinglyLinkedList();
 input.forEach((val) => {

@@ -1,5 +1,5 @@
 console.log(
-  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ Implementation of Singly LinkedList ~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ Implementation of Singly LinkedList ~~~~~~~~~~~~~~~~~~~~~~~~~~~",
 );
 
 const treeify = require("treeify");
@@ -127,7 +127,7 @@ console.log(treeify.asTree(node, true, true));
 
 const input = [1, 2, 3, 4, -5, 6, -7, 8, 9, -10];
 console.log(
-  "Singly LinkedList from array [" + input + "] looks like below: \n"
+  "Singly LinkedList from array [" + input + "] looks like below: \n",
 );
 const listFromArray = new SinglyLinkedList();
 input.forEach((val) => {

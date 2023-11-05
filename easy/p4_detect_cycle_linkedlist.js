@@ -1,5 +1,5 @@
 console.log(
-  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode 141. Linked List Cycle ~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ LeetCode 141. Linked List Cycle ~~~~~~~~~~~~~~~~~~~~~~~~~~~",
 );
 
 /**
@@ -87,7 +87,7 @@ var hasCycle = function (head) {
 console.log("\nInput1: ");
 const list1 = [3, 2, 0, -4];
 console.log(
-  "Singly LinkedList 1 from array [" + list1 + "] looks like below: \n"
+  "Singly LinkedList 1 from array [" + list1 + "] looks like below: \n",
 );
 const listFromArray1 = new SinglyLinkedList();
 list1.forEach((val) => {
@@ -103,7 +103,7 @@ console.log("The linked list has a cycle : " + hasCycle(listFromArray1.head));
 console.log("\nInput2: ");
 const list2 = [1, 3, 4, 6];
 console.log(
-  "Singly LinkedList 2 from array [" + list2 + "] looks like below: \n"
+  "Singly LinkedList 2 from array [" + list2 + "] looks like below: \n",
 );
 const listFromArray2 = new SinglyLinkedList();
 list2.forEach((val) => {

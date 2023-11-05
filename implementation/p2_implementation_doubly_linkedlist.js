@@ -1,5 +1,5 @@
 console.log(
-  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ Implementation of Doubly LinkedList ~~~~~~~~~~~~~~~~~~~~~~~~~~~"
+  "~~~~~~~~~~~~~~~~~~~~~~~~~~~ Implementation of Doubly LinkedList ~~~~~~~~~~~~~~~~~~~~~~~~~~~",
 );
 
 const treeify = require("treeify");
@@ -139,7 +139,7 @@ console.log(treeify.asTree(node, true));
 
 const input = [1, 2, 3, 4, -5, 6, -7, 8, 9, -10];
 console.log(
-  "Doubly LinkedList from array [" + input + "] looks like below: \n"
+  "Doubly LinkedList from array [" + input + "] looks like below: \n",
 );
 const listFromArray = new DoublyLinkedList();
 input.forEach((val) => {
